@@ -1,0 +1,99 @@
+attention mechanism
+
+Transformer, RNN, machine translation, performance comparison
+
+large language models, hallucination problem, semantic understanding, reasoning bias, reliability evaluation framework
+
+zero-shot learning, prompt engineering, latent knowledge activation, theoretical boundaries
+
+few-shot learning, meta-learning, pre-trained models, adaptation strategies
+
+pre-trained models, emergent capabilities, predictability, theoretical explanation
+
+large models, context window expansion, long-distance semantic dilution, long-term dependency modeling
+
+syntactic-semantic integrated modeling, constituent structure, dependency structure, unified representation
+
+Transformer model, self-attention mechanism, information leakage, protective measures
+
+Transformer text classification, CNN image classification, problems, solutions, similarities and differences
+
+adversarial attacks, black-box text adversarial methods
+
+adversarial attacks, white-box text adversarial methods
+
+FGSM adversarial attack, text adversarial attacks, migration
+
+BERT, black-box adversarial attack, sample generation
+
+low-resource languages, morphological richness, agglutinative languages, few-shot word sense disambiguation, typology-based transfer learning
+
+BGE model, text vectorization
+
+machine translation, proper nouns, terminology translation
+
+machine translation, long sentences, complex sentences, translation quality
+
+text semantic similarity, efficient model construction
+
+multilingual dialogue systems, seamless language switching, cross-lingual communication
+
+poetry generation, prosody, artistic conception
+
+text correction, spelling errors, grammatical errors, detection and correction
+
+machine translation, semantic differences, cultural differences
+
+text generation, diversity, correctness, coherence
+
+dialogue systems, user intent understanding, response generation, naturalness, fluency
+
+robust text classification, noise, data imbalance
+
+metaphor detection, model design, sentiment analysis, text understanding
+
+low-resource languages, transfer learning, natural language processing, performance improvement
+
+natural language processing, ambiguity resolution
+
+ancient scripts, recognition, interpretation
+
+text style transfer, style conversion
+
+computational linguistics, literary analysis, style analysis
+
+event recognition, model design
+
+computational linguistics, narrative structure, plot development
+
+text semantic similarity, efficient model, information retrieval, text matching
+
+catastrophic forgetting, deep learning, NLP
+
+dyslexia, language processing deficits, deep learning models
+
+code generation
+
+language families, syntax representation, cross-lingual transfer
+
+multilingual text classification, multi-task learning
+
+large language models, text generation, human text distinction
+
+large language models, text generation, human text, multi-datasets, text distinction
+
+large language models, text generation detection, method differences
+
+large language models, text generation detection, feature extraction, subtle differences
+
+adversarial training, large language models, text detectability
+
+large-scale dataset, high-quality data, text generation detection
+
+large language models, text generation optimization, detection challenges
+
+adaptive text generation, domain adaptation, style adaptation
+
+text classification, noise handling, outlier detection, model performance, robustness
+
+knowledge graph, text data, construction
